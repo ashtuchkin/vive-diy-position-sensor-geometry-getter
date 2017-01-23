@@ -23,6 +23,8 @@ int main()
 		}
 	}
 
+	system("pause");
+
 	vr::VR_Shutdown();
     return 0;
 }
